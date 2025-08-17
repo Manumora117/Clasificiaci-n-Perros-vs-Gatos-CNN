@@ -205,3 +205,28 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ====== [INICIO DE TUS REGLAS PERSONALIZADAS] ======
+# Ignorar modelos entrenados (archivos pesados)
+*.h5
+*.hdf5
+*.model
+
+# Ignorar archivos comprimidos
+*.rar
+*.zip
+*.7z
+
+# Ignorar carpetas de datos y modelos
+/data/
+/models/
+/dataset/
+
+# Ignorar entornos virtuales
+venv/
+env/
+.venv/
+
+# Ignorar archivos de configuración local
+.idea/
+.vscode/
