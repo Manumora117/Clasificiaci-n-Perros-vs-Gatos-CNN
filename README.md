@@ -30,7 +30,7 @@ Red neuronal convolucional (CNN) para clasificación de imágenes de perros y ga
 2. Cambiar la direccion de donde se encuentra el archivo `ClasificadorCNN2.h5`, el cual se creo a la hora de correr el modelo.
 
 ## 🗂️ Dataset
-El dataset lo pueden descargar desde la página de [Kaggle: Cat & Dogs]([https://datos.cdmx.gob.mx/](https://www.kaggle.com/datasets/d4rklucif3r/cat-and-dogs)) del usuario Arsh Anwar. Ahi puedem obtener el dataset que se utilizó para realizar este proyecto de clasificación de perros vs gatos.
+El dataset lo pueden descargar desde la página de [Kaggle: Cat & Dogs](https://www.kaggle.com/datasets/d4rklucif3r/cat-and-dogs) del usuario Arsh Anwar. Ahi puedem obtener el dataset que se utilizó para realizar este proyecto de clasificación de perros vs gatos.
 *NOTA:* El tamaño del dataset que se utilizó para entrenar y validar (train/test), fue de 2400 imagenes para cada etiqueta, en resumen, se usó en total 4800 imagenes para cada etiqueta, haciendo unma repartición manual de 50/50. Aunque en el dataset que se encuentra en Kaggle, es de 5000 y esta dividido en 80/20: pueden utilizar el que viene por default, ya que los avlores que yo utilice fue sin tener conocimiento previo de la proporcionalidad de datos que debe tener (train/test).
 
 ## 🧠 Autor
