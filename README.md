@@ -5,7 +5,6 @@ Red neuronal convolucional (CNN) para clasificación de imágenes de perros y ga
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
 - [Dataset](#dataset)
 - [Licencia](#licencia)
 
