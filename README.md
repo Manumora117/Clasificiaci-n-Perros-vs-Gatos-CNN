@@ -1,4 +1,4 @@
-# Clasificiacion-Perros-vs-Gatos-CNN
+# Clasificiacion-Perros-vs-Gatos-CNN-Prueba
 Red neuronal convolucional (CNN) para clasificación de imágenes de perros y gatos. El modelo utiliza un dataset de 4800 imágenes por clase (9600 totales) con división 50% entrenamiento / 50% pruebas.
 
 ## 📋 Contenido
